@@ -1,0 +1,35 @@
+.header {
+    top: 6px;
+    left: 6px;
+    right: 5px;
+    height: 80px;
+    z-index: 2;
+    border-bottom: solid 1px pink;
+}
+.firsthalf {
+    width: 30%;
+    height: 30%;
+    display: flexbox;
+    text-align: center;
+    justify-content: space-between;
+    float: left;
+    padding-top: 0%;
+    padding-left: 10%;
+    padding-bottom: 7%;
+   
+}
+.second-div {
+    width: 30%;
+    height: 30%;
+    display: flexbox;
+    text-align: center;
+    justify-content: space-between;
+    float: right;
+    padding-top: 0%;
+    padding-right: 10%;
+    padding-bottom: 7%;
+    
+}
+.subheader {
+    float: right;
+}
